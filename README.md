@@ -1,18 +1,18 @@
-# SPHERE-PPL Forecasting Contest Template
+# SPHERE-PPL Health Forecasting Contest - NHS System
 
-This is the official template repository for SPHERE-PPL Forecasting Contest. 
+> **This repo/contest is currently under construction so details may change before the start date.**
 
-Each contest will have its own repository with pre-prepared data (found in the data folder) and a template report (demo_analysis.qmd) that will showcase how to load the data, perform analyses and then export results into the correct format. There will also be a folder for any additional scripts that are required. Any coding languages are allowed but all analyses must be reproducible by the panel. 
+## Introduction[^readme-1]
 
-More details about the contests and the SPHERE-PPL Community can be found at: <https://SPHERE-PPL.github.io>.
+[^readme-1]: Adapted from XXX (<>)
 
-The remainder of this README will show the different sections that will usually be included in the contest set-up.
 
-## Introduction
-This is for setting the scene and providing details relating to the Annual Meeting and the drivers behind the contest.
 
 ## Forecasting Outputs
-Need to outline the specific ask of the contest and what it means for the policies/community etc.
+
+For this contest, we are looking to forecast monthly ...
+
+Forecasts and reports should be saved into the submission folder, matching the template found within.
 
 ## Joining the contest & Getting Started
 In order to join the contest, you will need to fork or download the repo. 
