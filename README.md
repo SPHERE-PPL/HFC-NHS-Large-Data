@@ -1,4 +1,4 @@
-# SPHERE-PPL Health Forecasting Contest - NHS System
+# SPHERE-PPL Health Forecasting Contest - NHS Large Data
 
 > **This repo/contest is currently under construction so details may change before the start date.**
 
