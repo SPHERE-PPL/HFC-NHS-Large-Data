@@ -10,7 +10,7 @@
 
 ## Forecasting Outputs
 
-For this contest, we are looking to forecast monthly ...
+For this contest, we are looking to for teams to combine several datasets included here or online and find pattterns and trends using ML/AI.
 
 Forecasts and reports should be saved into the submission folder, matching the template found within.
 
